@@ -14,7 +14,9 @@ body{
 }
 
 
-
+.list{
+    text-alignment: left;
+    }
 
 .sidebar{
     float:left;
